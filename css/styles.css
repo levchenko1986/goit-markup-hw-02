@@ -13,7 +13,11 @@ a {
     text-decoration: none;
     color: inherit;
 }
-.mail-opacity:hover, .lists:hover, .lists:focus {
+.mail-opacity:hover, 
+.lists:hover, 
+.lists:focus, 
+.mail-opacity:focus, 
+.btn-chapters:focus {
     color: var(--logo-color);
 }
 li {
